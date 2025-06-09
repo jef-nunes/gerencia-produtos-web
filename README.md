@@ -3,19 +3,20 @@ Aplicação web para cadastro de produtos, o qual utiliza as tecnologias de dese
 
 ## Configurando o projeto no VS Code
 
-### 1. Criar um projeto Spring Boot no VS Code
+### [Backend]
+#### 1. Criar um projeto Spring Boot no VS Code
 1. Abrir seletor de comandos (Ctrl+Shift+P)
 2. Selecionar "Spring Initializr: Create a Maven Project"
 3. Terminar de configurar o projeto
 
-### 2. Clonar o arquivo pom.xml / adicionar as dependências
+#### 2. Clonar o arquivo pom.xml / adicionar as dependências
 * mysql-connector-java
 * spring-boot-devtools
 * spring-boot-starter-web
 * spring-boot-starter-data-jpa
 * lombok
 
-### 3. Editar o arquivo resources/application.properties
+#### 3. Editar o arquivo resources/application.properties
 
 Altera a estrutura da tabela caso a entidade tenha mudanças <br>
 `spring.jpa.hibernate.ddl-auto=update`
