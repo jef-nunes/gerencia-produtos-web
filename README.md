@@ -4,7 +4,7 @@ Aplicação web para cadastro de produtos, o qual utiliza as tecnologias de dese
 ## Configurando o projeto no VS Code
 
 ### 1. Criar um projeto Spring Boot no VS Code
-1. Apertar Ctrl+Shift+P
+1. Abrir seletor de comandos (Ctrl+Shift+P)
 2. Selecionar "Spring Initializr: Create a Maven Project"
 3. Terminar de configurar o projeto
 
