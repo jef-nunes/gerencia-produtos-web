@@ -1,7 +1,7 @@
 ## Sobre
 Aplicação web para cadastro de produtos, o qual utiliza as tecnologias de desenvolvimento: Java, Spring Boot, Lombok, MySQL, React.<br><br>
 
-## Configurando o projeto na IDE VS Code
+## Configurando o projeto no VS Code
 
 ### 1. Criar um projeto Spring Boot no VS Code
 1. Apertar Ctrl+Shift+P
