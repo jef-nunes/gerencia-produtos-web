@@ -8,6 +8,7 @@ Aplicação web para cadastro de produtos, o qual utiliza as tecnologias de dese
 + Java Extension Pack
 + Spring Boot Extension Pack
 + Thunder Client
+  
 #### 2. Criar um projeto Spring Boot no VS Code
 1. Abrir seletor de comandos (Ctrl+Shift+P)
 2. Selecionar "Spring Initializr: Create a Maven Project"
